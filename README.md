@@ -1,6 +1,6 @@
 # potato-20.github.io
 
-Mayank Patel — Information Security Research & Engineering.
+Mayank P — Information Security Research & Engineering.
 
 **Live:** https://potato-20.github.io/
 
